@@ -1,0 +1,101 @@
+Folder PATH listing for volume Windows
+Volume serial number is EE7F-72C9
+C:.
+³   config.py
+³   requirements.txt
+³   run.py
+³   tree.txt
+³   
+ÃÄÄÄapp
+³   ³   models.py
+³   ³   __init__.py
+³   ³   
+³   ÃÄÄÄadmin
+³   ³   ³   forms.py
+³   ³   ³   views.py
+³   ³   ³   __init__.py
+³   ³   ³   
+³   ³   ÀÄÄÄ__pycache__
+³   ³           forms.cpython-37.pyc
+³   ³           views.cpython-37.pyc
+³   ³           __init__.cpython-37.pyc
+³   ³           
+³   ÃÄÄÄauth
+³   ³   ³   forms.py
+³   ³   ³   views.py
+³   ³   ³   __init__.py
+³   ³   ³   
+³   ³   ÀÄÄÄ__pycache__
+³   ³           forms.cpython-37.pyc
+³   ³           views.cpython-37.pyc
+³   ³           __init__.cpython-37.pyc
+³   ³           
+³   ÃÄÄÄhome
+³   ³   ³   views.py
+³   ³   ³   __init__.py
+³   ³   ³   
+³   ³   ÀÄÄÄ__pycache__
+³   ³           views.cpython-37.pyc
+³   ³           __init__.cpython-37.pyc
+³   ³           
+³   ÃÄÄÄstatic
+³   ³   ÃÄÄÄcss
+³   ³   ³       style.css
+³   ³   ³       
+³   ³   ÀÄÄÄimg
+³   ³           favicon.jpg
+³   ³           images.png
+³   ³           intro-bg.jpg
+³   ³           leaf.png
+³   ³           
+³   ÃÄÄÄtemplates
+³   ³   ³   base.html
+³   ³   ³   
+³   ³   ÃÄÄÄadmin
+³   ³   ³   ÃÄÄÄdepartments
+³   ³   ³   ³       department.html
+³   ³   ³   ³       departments.html
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄemployees
+³   ³   ³   ³       employee.html
+³   ³   ³   ³       employees.html
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄroles
+³   ³   ³           role.html
+³   ³   ³           roles.html
+³   ³   ³           
+³   ³   ÃÄÄÄauth
+³   ³   ³       login.html
+³   ³   ³       register.html
+³   ³   ³       
+³   ³   ÀÄÄÄhome
+³   ³           admin_dashboard.html
+³   ³           dashboard.html
+³   ³           index.html
+³   ³           
+³   ÀÄÄÄ__pycache__
+³           models.cpython-37.pyc
+³           __init__.cpython-37.pyc
+³           
+ÃÄÄÄinstance
+³       config.py
+³       
+ÃÄÄÄmigrations
+³   ³   alembic.ini
+³   ³   env.py
+³   ³   README
+³   ³   script.py.mako
+³   ³   
+³   ÃÄÄÄversions
+³   ³   ³   e6e8193a7125_.py
+³   ³   ³   
+³   ³   ÀÄÄÄ__pycache__
+³   ³           e6e8193a7125_.cpython-37.pyc
+³   ³           
+³   ÀÄÄÄ__pycache__
+³           env.cpython-37.pyc
+³           
+ÀÄÄÄ__pycache__
+        config.cpython-37.pyc
+        run.cpython-37.pyc
+        
